@@ -1,4 +1,4 @@
-int maint()
+int main()
 {
   
   return 0;
